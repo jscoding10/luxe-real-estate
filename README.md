@@ -1,4 +1,5 @@
 ## Luxe Real Estate
+<img width="70%" alt="Luxe Real Estate" src="https://github.com/jscoding10/luxe-real-estate/assets/147340427/c94c56df-e20d-43cf-81e2-d8d382a18144">
 
 **Deployed version:** https://luxe-real-estate.onrender.com/
 <br>
